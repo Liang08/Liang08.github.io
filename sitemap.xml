@@ -2,9 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://liang08.gitlab.io/2021/01/10/JavaScript-01/</loc>
+    
+    <lastmod>2021-01-10</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://liang08.gitlab.io/2021/01/10/Pytorch-01/</loc>
+    
+    <lastmod>2021-01-10</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://liang08.gitlab.io/about/index.html</loc>
+    
+    <lastmod>2021-01-10</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://liang08.gitlab.io/2020/12/27/statistical-learning-method-1/</loc>
     
-    <lastmod>2021-01-07</lastmod>
+    <lastmod>2021-01-10</lastmod>
     
   </url>
   
@@ -29,17 +50,10 @@
     
   </url>
   
-  <url>
-    <loc>https://liang08.gitlab.io/about/index.html</loc>
-    
-    <lastmod>2020-11-21</lastmod>
-    
-  </url>
-  
 
   <url>
     <loc>https://liang08.gitlab.io/</loc>
-    <lastmod>2021-01-07</lastmod>
+    <lastmod>2021-01-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -47,7 +61,28 @@
   
   <url>
     <loc>https://liang08.gitlab.io/tags/Machine-Learning/</loc>
-    <lastmod>2021-01-07</lastmod>
+    <lastmod>2021-01-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://liang08.gitlab.io/tags/JavaScript/</loc>
+    <lastmod>2021-01-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://liang08.gitlab.io/tags/Python/</loc>
+    <lastmod>2021-01-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://liang08.gitlab.io/tags/Pytorch/</loc>
+    <lastmod>2021-01-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -56,21 +91,49 @@
   
   <url>
     <loc>https://liang08.gitlab.io/categories/Notes/</loc>
-    <lastmod>2021-01-07</lastmod>
+    <lastmod>2021-01-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://liang08.gitlab.io/categories/Programming-Languages/</loc>
+    <lastmod>2021-01-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://liang08.gitlab.io/categories/Notes/Machine-Learning/</loc>
-    <lastmod>2021-01-07</lastmod>
+    <lastmod>2021-01-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://liang08.gitlab.io/categories/Programming-Languages/JavaScript/</loc>
+    <lastmod>2021-01-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://liang08.gitlab.io/categories/Programming-Languages/Python/</loc>
+    <lastmod>2021-01-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://liang08.gitlab.io/categories/Notes/Machine-Learning/Statistical-Learning-Method/</loc>
-    <lastmod>2021-01-07</lastmod>
+    <lastmod>2021-01-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://liang08.gitlab.io/categories/Programming-Languages/Python/Pytorch/</loc>
+    <lastmod>2021-01-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
